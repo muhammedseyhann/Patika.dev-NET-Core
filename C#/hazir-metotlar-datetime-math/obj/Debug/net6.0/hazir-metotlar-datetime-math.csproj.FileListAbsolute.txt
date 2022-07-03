@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net6.0\hazir-metotlar-datetime-math.exe
+D:\Desktop\CSharp\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net6.0\hazir-metotlar-datetime-math.deps.json
+D:\Desktop\CSharp\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net6.0\hazir-metotlar-datetime-math.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net6.0\hazir-metotlar-datetime-math.dll
+D:\Desktop\CSharp\Pratikler\hazir-metotlar-datetime-math\bin\Debug\net6.0\hazir-metotlar-datetime-math.pdb
+D:\Desktop\CSharp\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net6.0\hazir-metotlar-datetime-math.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net6.0\hazir-metotlar-datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net6.0\hazir-metotlar-datetime-math.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net6.0\hazir-metotlar-datetime-math.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net6.0\hazir-metotlar-datetime-math.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net6.0\hazir-metotlar-datetime-math.dll
+D:\Desktop\CSharp\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net6.0\refint\hazir-metotlar-datetime-math.dll
+D:\Desktop\CSharp\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net6.0\hazir-metotlar-datetime-math.pdb
+D:\Desktop\CSharp\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net6.0\hazir-metotlar-datetime-math.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\hazir-metotlar-datetime-math\obj\Debug\net6.0\ref\hazir-metotlar-datetime-math.dll

@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\struct-kavrami\bin\Debug\net6.0\struct-kavrami.exe
+D:\Desktop\CSharp\Pratikler\struct-kavrami\bin\Debug\net6.0\struct-kavrami.deps.json
+D:\Desktop\CSharp\Pratikler\struct-kavrami\bin\Debug\net6.0\struct-kavrami.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\struct-kavrami\bin\Debug\net6.0\struct-kavrami.dll
+D:\Desktop\CSharp\Pratikler\struct-kavrami\bin\Debug\net6.0\struct-kavrami.pdb
+D:\Desktop\CSharp\Pratikler\struct-kavrami\obj\Debug\net6.0\struct-kavrami.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\struct-kavrami\obj\Debug\net6.0\struct-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\struct-kavrami\obj\Debug\net6.0\struct-kavrami.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\struct-kavrami\obj\Debug\net6.0\struct-kavrami.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\struct-kavrami\obj\Debug\net6.0\struct-kavrami.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\struct-kavrami\obj\Debug\net6.0\struct-kavrami.dll
+D:\Desktop\CSharp\Pratikler\struct-kavrami\obj\Debug\net6.0\refint\struct-kavrami.dll
+D:\Desktop\CSharp\Pratikler\struct-kavrami\obj\Debug\net6.0\struct-kavrami.pdb
+D:\Desktop\CSharp\Pratikler\struct-kavrami\obj\Debug\net6.0\struct-kavrami.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\struct-kavrami\obj\Debug\net6.0\ref\struct-kavrami.dll

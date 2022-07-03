@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.exe
+D:\Desktop\CSharp\Pratikler\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.deps.json
+D:\Desktop\CSharp\Pratikler\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.dll
+D:\Desktop\CSharp\Pratikler\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.pdb
+D:\Desktop\CSharp\Pratikler\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.dll
+D:\Desktop\CSharp\Pratikler\donguler-while-foreach\obj\Debug\net6.0\refint\donguler-while-foreach.dll
+D:\Desktop\CSharp\Pratikler\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.pdb
+D:\Desktop\CSharp\Pratikler\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\donguler-while-foreach\obj\Debug\net6.0\ref\donguler-while-foreach.dll

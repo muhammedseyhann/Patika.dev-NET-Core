@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\kurucu-metodlar\bin\Debug\net6.0\kurucu-metodlar.exe
+D:\Desktop\CSharp\Pratikler\kurucu-metodlar\bin\Debug\net6.0\kurucu-metodlar.deps.json
+D:\Desktop\CSharp\Pratikler\kurucu-metodlar\bin\Debug\net6.0\kurucu-metodlar.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\kurucu-metodlar\bin\Debug\net6.0\kurucu-metodlar.dll
+D:\Desktop\CSharp\Pratikler\kurucu-metodlar\bin\Debug\net6.0\kurucu-metodlar.pdb
+D:\Desktop\CSharp\Pratikler\kurucu-metodlar\obj\Debug\net6.0\kurucu-metodlar.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\kurucu-metodlar\obj\Debug\net6.0\kurucu-metodlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\kurucu-metodlar\obj\Debug\net6.0\kurucu-metodlar.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\kurucu-metodlar\obj\Debug\net6.0\kurucu-metodlar.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\kurucu-metodlar\obj\Debug\net6.0\kurucu-metodlar.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\kurucu-metodlar\obj\Debug\net6.0\kurucu-metodlar.dll
+D:\Desktop\CSharp\Pratikler\kurucu-metodlar\obj\Debug\net6.0\refint\kurucu-metodlar.dll
+D:\Desktop\CSharp\Pratikler\kurucu-metodlar\obj\Debug\net6.0\kurucu-metodlar.pdb
+D:\Desktop\CSharp\Pratikler\kurucu-metodlar\obj\Debug\net6.0\kurucu-metodlar.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\kurucu-metodlar\obj\Debug\net6.0\ref\kurucu-metodlar.dll

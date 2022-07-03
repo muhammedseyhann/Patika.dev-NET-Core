@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\mwtotlar-overloading\bin\Debug\net6.0\mwtotlar-overloading.exe
+D:\Desktop\CSharp\Pratikler\mwtotlar-overloading\bin\Debug\net6.0\mwtotlar-overloading.deps.json
+D:\Desktop\CSharp\Pratikler\mwtotlar-overloading\bin\Debug\net6.0\mwtotlar-overloading.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\mwtotlar-overloading\bin\Debug\net6.0\mwtotlar-overloading.dll
+D:\Desktop\CSharp\Pratikler\mwtotlar-overloading\bin\Debug\net6.0\mwtotlar-overloading.pdb
+D:\Desktop\CSharp\Pratikler\mwtotlar-overloading\obj\Debug\net6.0\mwtotlar-overloading.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\mwtotlar-overloading\obj\Debug\net6.0\mwtotlar-overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\mwtotlar-overloading\obj\Debug\net6.0\mwtotlar-overloading.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\mwtotlar-overloading\obj\Debug\net6.0\mwtotlar-overloading.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\mwtotlar-overloading\obj\Debug\net6.0\mwtotlar-overloading.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\mwtotlar-overloading\obj\Debug\net6.0\mwtotlar-overloading.dll
+D:\Desktop\CSharp\Pratikler\mwtotlar-overloading\obj\Debug\net6.0\refint\mwtotlar-overloading.dll
+D:\Desktop\CSharp\Pratikler\mwtotlar-overloading\obj\Debug\net6.0\mwtotlar-overloading.pdb
+D:\Desktop\CSharp\Pratikler\mwtotlar-overloading\obj\Debug\net6.0\mwtotlar-overloading.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\mwtotlar-overloading\obj\Debug\net6.0\ref\mwtotlar-overloading.dll

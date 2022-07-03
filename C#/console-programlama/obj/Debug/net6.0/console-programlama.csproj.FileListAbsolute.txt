@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\console-programlama\bin\Debug\net6.0\console-programlama.exe
+D:\Desktop\CSharp\Pratikler\console-programlama\bin\Debug\net6.0\console-programlama.deps.json
+D:\Desktop\CSharp\Pratikler\console-programlama\bin\Debug\net6.0\console-programlama.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\console-programlama\bin\Debug\net6.0\console-programlama.dll
+D:\Desktop\CSharp\Pratikler\console-programlama\bin\Debug\net6.0\console-programlama.pdb
+D:\Desktop\CSharp\Pratikler\console-programlama\obj\Debug\net6.0\console-programlama.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\console-programlama\obj\Debug\net6.0\console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\console-programlama\obj\Debug\net6.0\console-programlama.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\console-programlama\obj\Debug\net6.0\console-programlama.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\console-programlama\obj\Debug\net6.0\console-programlama.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\console-programlama\obj\Debug\net6.0\console-programlama.dll
+D:\Desktop\CSharp\Pratikler\console-programlama\obj\Debug\net6.0\refint\console-programlama.dll
+D:\Desktop\CSharp\Pratikler\console-programlama\obj\Debug\net6.0\console-programlama.pdb
+D:\Desktop\CSharp\Pratikler\console-programlama\obj\Debug\net6.0\console-programlama.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\console-programlama\obj\Debug\net6.0\ref\console-programlama.dll

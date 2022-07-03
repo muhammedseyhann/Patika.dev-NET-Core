@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\inheritance\bin\Debug\net6.0\inheritance.exe
+D:\Desktop\CSharp\Pratikler\inheritance\bin\Debug\net6.0\inheritance.deps.json
+D:\Desktop\CSharp\Pratikler\inheritance\bin\Debug\net6.0\inheritance.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\inheritance\bin\Debug\net6.0\inheritance.dll
+D:\Desktop\CSharp\Pratikler\inheritance\bin\Debug\net6.0\inheritance.pdb
+D:\Desktop\CSharp\Pratikler\inheritance\obj\Debug\net6.0\inheritance.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\inheritance\obj\Debug\net6.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\inheritance\obj\Debug\net6.0\inheritance.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\inheritance\obj\Debug\net6.0\inheritance.dll
+D:\Desktop\CSharp\Pratikler\inheritance\obj\Debug\net6.0\refint\inheritance.dll
+D:\Desktop\CSharp\Pratikler\inheritance\obj\Debug\net6.0\inheritance.pdb
+D:\Desktop\CSharp\Pratikler\inheritance\obj\Debug\net6.0\inheritance.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\inheritance\obj\Debug\net6.0\ref\inheritance.dll

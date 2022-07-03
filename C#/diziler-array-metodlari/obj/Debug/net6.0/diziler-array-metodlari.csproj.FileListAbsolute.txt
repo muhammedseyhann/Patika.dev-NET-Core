@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\diziler-array-metodlari\bin\Debug\net6.0\diziler-array-metodlari.exe
+D:\Desktop\CSharp\Pratikler\diziler-array-metodlari\bin\Debug\net6.0\diziler-array-metodlari.deps.json
+D:\Desktop\CSharp\Pratikler\diziler-array-metodlari\bin\Debug\net6.0\diziler-array-metodlari.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\diziler-array-metodlari\bin\Debug\net6.0\diziler-array-metodlari.dll
+D:\Desktop\CSharp\Pratikler\diziler-array-metodlari\bin\Debug\net6.0\diziler-array-metodlari.pdb
+D:\Desktop\CSharp\Pratikler\diziler-array-metodlari\obj\Debug\net6.0\diziler-array-metodlari.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\diziler-array-metodlari\obj\Debug\net6.0\diziler-array-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\diziler-array-metodlari\obj\Debug\net6.0\diziler-array-metodlari.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\diziler-array-metodlari\obj\Debug\net6.0\diziler-array-metodlari.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\diziler-array-metodlari\obj\Debug\net6.0\diziler-array-metodlari.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\diziler-array-metodlari\obj\Debug\net6.0\diziler-array-metodlari.dll
+D:\Desktop\CSharp\Pratikler\diziler-array-metodlari\obj\Debug\net6.0\refint\diziler-array-metodlari.dll
+D:\Desktop\CSharp\Pratikler\diziler-array-metodlari\obj\Debug\net6.0\diziler-array-metodlari.pdb
+D:\Desktop\CSharp\Pratikler\diziler-array-metodlari\obj\Debug\net6.0\diziler-array-metodlari.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\diziler-array-metodlari\obj\Debug\net6.0\ref\diziler-array-metodlari.dll

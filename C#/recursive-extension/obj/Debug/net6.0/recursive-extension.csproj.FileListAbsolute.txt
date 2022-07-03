@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\recursive-extension\bin\Debug\net6.0\recursive-extension.exe
+D:\Desktop\CSharp\Pratikler\recursive-extension\bin\Debug\net6.0\recursive-extension.deps.json
+D:\Desktop\CSharp\Pratikler\recursive-extension\bin\Debug\net6.0\recursive-extension.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\recursive-extension\bin\Debug\net6.0\recursive-extension.dll
+D:\Desktop\CSharp\Pratikler\recursive-extension\bin\Debug\net6.0\recursive-extension.pdb
+D:\Desktop\CSharp\Pratikler\recursive-extension\obj\Debug\net6.0\recursive-extension.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\recursive-extension\obj\Debug\net6.0\recursive-extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\recursive-extension\obj\Debug\net6.0\recursive-extension.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\recursive-extension\obj\Debug\net6.0\recursive-extension.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\recursive-extension\obj\Debug\net6.0\recursive-extension.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\recursive-extension\obj\Debug\net6.0\recursive-extension.dll
+D:\Desktop\CSharp\Pratikler\recursive-extension\obj\Debug\net6.0\refint\recursive-extension.dll
+D:\Desktop\CSharp\Pratikler\recursive-extension\obj\Debug\net6.0\recursive-extension.pdb
+D:\Desktop\CSharp\Pratikler\recursive-extension\obj\Debug\net6.0\recursive-extension.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\recursive-extension\obj\Debug\net6.0\ref\recursive-extension.dll

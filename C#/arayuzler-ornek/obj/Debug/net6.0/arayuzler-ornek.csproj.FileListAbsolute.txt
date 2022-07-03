@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\arayuzler-ornek\bin\Debug\net6.0\arayuzler-ornek.exe
+D:\Desktop\CSharp\Pratikler\arayuzler-ornek\bin\Debug\net6.0\arayuzler-ornek.deps.json
+D:\Desktop\CSharp\Pratikler\arayuzler-ornek\bin\Debug\net6.0\arayuzler-ornek.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\arayuzler-ornek\bin\Debug\net6.0\arayuzler-ornek.dll
+D:\Desktop\CSharp\Pratikler\arayuzler-ornek\bin\Debug\net6.0\arayuzler-ornek.pdb
+D:\Desktop\CSharp\Pratikler\arayuzler-ornek\obj\Debug\net6.0\arayuzler-ornek.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\arayuzler-ornek\obj\Debug\net6.0\arayuzler-ornek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\arayuzler-ornek\obj\Debug\net6.0\arayuzler-ornek.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\arayuzler-ornek\obj\Debug\net6.0\arayuzler-ornek.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\arayuzler-ornek\obj\Debug\net6.0\arayuzler-ornek.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\arayuzler-ornek\obj\Debug\net6.0\arayuzler-ornek.dll
+D:\Desktop\CSharp\Pratikler\arayuzler-ornek\obj\Debug\net6.0\refint\arayuzler-ornek.dll
+D:\Desktop\CSharp\Pratikler\arayuzler-ornek\obj\Debug\net6.0\arayuzler-ornek.pdb
+D:\Desktop\CSharp\Pratikler\arayuzler-ornek\obj\Debug\net6.0\arayuzler-ornek.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\arayuzler-ornek\obj\Debug\net6.0\ref\arayuzler-ornek.dll

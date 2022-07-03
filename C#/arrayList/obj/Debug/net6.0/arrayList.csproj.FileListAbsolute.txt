@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\arrayList\bin\Debug\net6.0\arrayList.exe
+D:\Desktop\CSharp\Pratikler\arrayList\bin\Debug\net6.0\arrayList.deps.json
+D:\Desktop\CSharp\Pratikler\arrayList\bin\Debug\net6.0\arrayList.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\arrayList\bin\Debug\net6.0\arrayList.dll
+D:\Desktop\CSharp\Pratikler\arrayList\bin\Debug\net6.0\arrayList.pdb
+D:\Desktop\CSharp\Pratikler\arrayList\obj\Debug\net6.0\arrayList.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\arrayList\obj\Debug\net6.0\arrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\arrayList\obj\Debug\net6.0\arrayList.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\arrayList\obj\Debug\net6.0\arrayList.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\arrayList\obj\Debug\net6.0\arrayList.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\arrayList\obj\Debug\net6.0\arrayList.dll
+D:\Desktop\CSharp\Pratikler\arrayList\obj\Debug\net6.0\refint\arrayList.dll
+D:\Desktop\CSharp\Pratikler\arrayList\obj\Debug\net6.0\arrayList.pdb
+D:\Desktop\CSharp\Pratikler\arrayList\obj\Debug\net6.0\arrayList.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\arrayList\obj\Debug\net6.0\ref\arrayList.dll

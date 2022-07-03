@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\static-sinif-ve-uyeler\bin\Debug\net6.0\static-sinif-ve-uyeler.exe
+D:\Desktop\CSharp\Pratikler\static-sinif-ve-uyeler\bin\Debug\net6.0\static-sinif-ve-uyeler.deps.json
+D:\Desktop\CSharp\Pratikler\static-sinif-ve-uyeler\bin\Debug\net6.0\static-sinif-ve-uyeler.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\static-sinif-ve-uyeler\bin\Debug\net6.0\static-sinif-ve-uyeler.dll
+D:\Desktop\CSharp\Pratikler\static-sinif-ve-uyeler\bin\Debug\net6.0\static-sinif-ve-uyeler.pdb
+D:\Desktop\CSharp\Pratikler\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.dll
+D:\Desktop\CSharp\Pratikler\static-sinif-ve-uyeler\obj\Debug\net6.0\refint\static-sinif-ve-uyeler.dll
+D:\Desktop\CSharp\Pratikler\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.pdb
+D:\Desktop\CSharp\Pratikler\static-sinif-ve-uyeler\obj\Debug\net6.0\static-sinif-ve-uyeler.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\static-sinif-ve-uyeler\obj\Debug\net6.0\ref\static-sinif-ve-uyeler.dll

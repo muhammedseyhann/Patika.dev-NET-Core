@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\tip-donusumleri\bin\Debug\net6.0\tip-donusumleri.exe
+D:\Desktop\CSharp\Pratikler\tip-donusumleri\bin\Debug\net6.0\tip-donusumleri.deps.json
+D:\Desktop\CSharp\Pratikler\tip-donusumleri\bin\Debug\net6.0\tip-donusumleri.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\tip-donusumleri\bin\Debug\net6.0\tip-donusumleri.dll
+D:\Desktop\CSharp\Pratikler\tip-donusumleri\bin\Debug\net6.0\tip-donusumleri.pdb
+D:\Desktop\CSharp\Pratikler\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.dll
+D:\Desktop\CSharp\Pratikler\tip-donusumleri\obj\Debug\net6.0\refint\tip-donusumleri.dll
+D:\Desktop\CSharp\Pratikler\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.pdb
+D:\Desktop\CSharp\Pratikler\tip-donusumleri\obj\Debug\net6.0\tip-donusumleri.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\tip-donusumleri\obj\Debug\net6.0\ref\tip-donusumleri.dll

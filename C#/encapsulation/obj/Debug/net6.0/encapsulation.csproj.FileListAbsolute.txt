@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\encapsulation\bin\Debug\net6.0\encapsulation.exe
+D:\Desktop\CSharp\Pratikler\encapsulation\bin\Debug\net6.0\encapsulation.deps.json
+D:\Desktop\CSharp\Pratikler\encapsulation\bin\Debug\net6.0\encapsulation.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\encapsulation\bin\Debug\net6.0\encapsulation.dll
+D:\Desktop\CSharp\Pratikler\encapsulation\bin\Debug\net6.0\encapsulation.pdb
+D:\Desktop\CSharp\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.dll
+D:\Desktop\CSharp\Pratikler\encapsulation\obj\Debug\net6.0\refint\encapsulation.dll
+D:\Desktop\CSharp\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.pdb
+D:\Desktop\CSharp\Pratikler\encapsulation\obj\Debug\net6.0\encapsulation.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\encapsulation\obj\Debug\net6.0\ref\encapsulation.dll

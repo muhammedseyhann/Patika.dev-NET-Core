@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.exe
+D:\Desktop\CSharp\Pratikler\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.deps.json
+D:\Desktop\CSharp\Pratikler\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.dll
+D:\Desktop\CSharp\Pratikler\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.pdb
+D:\Desktop\CSharp\Pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.dll
+D:\Desktop\CSharp\Pratikler\donguler-for-loop\obj\Debug\net6.0\refint\donguler-for-loop.dll
+D:\Desktop\CSharp\Pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.pdb
+D:\Desktop\CSharp\Pratikler\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\donguler-for-loop\obj\Debug\net6.0\ref\donguler-for-loop.dll

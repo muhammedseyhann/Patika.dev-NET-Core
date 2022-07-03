@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\enumlar\bin\Debug\net6.0\enumlar.exe
+D:\Desktop\CSharp\Pratikler\enumlar\bin\Debug\net6.0\enumlar.deps.json
+D:\Desktop\CSharp\Pratikler\enumlar\bin\Debug\net6.0\enumlar.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\enumlar\bin\Debug\net6.0\enumlar.dll
+D:\Desktop\CSharp\Pratikler\enumlar\bin\Debug\net6.0\enumlar.pdb
+D:\Desktop\CSharp\Pratikler\enumlar\obj\Debug\net6.0\enumlar.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\enumlar\obj\Debug\net6.0\enumlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\enumlar\obj\Debug\net6.0\enumlar.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\enumlar\obj\Debug\net6.0\enumlar.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\enumlar\obj\Debug\net6.0\enumlar.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\enumlar\obj\Debug\net6.0\enumlar.dll
+D:\Desktop\CSharp\Pratikler\enumlar\obj\Debug\net6.0\refint\enumlar.dll
+D:\Desktop\CSharp\Pratikler\enumlar\obj\Debug\net6.0\enumlar.pdb
+D:\Desktop\CSharp\Pratikler\enumlar\obj\Debug\net6.0\enumlar.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\enumlar\obj\Debug\net6.0\ref\enumlar.dll

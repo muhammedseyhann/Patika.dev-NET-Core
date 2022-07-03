@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\generic-list\bin\Debug\net6.0\generic-list.exe
+D:\Desktop\CSharp\Pratikler\generic-list\bin\Debug\net6.0\generic-list.deps.json
+D:\Desktop\CSharp\Pratikler\generic-list\bin\Debug\net6.0\generic-list.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\generic-list\bin\Debug\net6.0\generic-list.dll
+D:\Desktop\CSharp\Pratikler\generic-list\bin\Debug\net6.0\generic-list.pdb
+D:\Desktop\CSharp\Pratikler\generic-list\obj\Debug\net6.0\generic-list.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\generic-list\obj\Debug\net6.0\generic-list.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\generic-list\obj\Debug\net6.0\generic-list.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\generic-list\obj\Debug\net6.0\generic-list.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\generic-list\obj\Debug\net6.0\generic-list.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\generic-list\obj\Debug\net6.0\generic-list.dll
+D:\Desktop\CSharp\Pratikler\generic-list\obj\Debug\net6.0\refint\generic-list.dll
+D:\Desktop\CSharp\Pratikler\generic-list\obj\Debug\net6.0\generic-list.pdb
+D:\Desktop\CSharp\Pratikler\generic-list\obj\Debug\net6.0\generic-list.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\generic-list\obj\Debug\net6.0\ref\generic-list.dll

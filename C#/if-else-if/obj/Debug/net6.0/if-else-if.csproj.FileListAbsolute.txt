@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\if-else-if\bin\Debug\net6.0\if-else-if.exe
+D:\Desktop\CSharp\Pratikler\if-else-if\bin\Debug\net6.0\if-else-if.deps.json
+D:\Desktop\CSharp\Pratikler\if-else-if\bin\Debug\net6.0\if-else-if.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\if-else-if\bin\Debug\net6.0\if-else-if.dll
+D:\Desktop\CSharp\Pratikler\if-else-if\bin\Debug\net6.0\if-else-if.pdb
+D:\Desktop\CSharp\Pratikler\if-else-if\obj\Debug\net6.0\if-else-if.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\if-else-if\obj\Debug\net6.0\if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\if-else-if\obj\Debug\net6.0\if-else-if.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\if-else-if\obj\Debug\net6.0\if-else-if.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\if-else-if\obj\Debug\net6.0\if-else-if.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\if-else-if\obj\Debug\net6.0\if-else-if.dll
+D:\Desktop\CSharp\Pratikler\if-else-if\obj\Debug\net6.0\refint\if-else-if.dll
+D:\Desktop\CSharp\Pratikler\if-else-if\obj\Debug\net6.0\if-else-if.pdb
+D:\Desktop\CSharp\Pratikler\if-else-if\obj\Debug\net6.0\if-else-if.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\if-else-if\obj\Debug\net6.0\ref\if-else-if.dll

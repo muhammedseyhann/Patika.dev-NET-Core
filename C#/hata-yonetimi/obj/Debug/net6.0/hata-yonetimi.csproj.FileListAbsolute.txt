@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\hata-yonetimi\bin\Debug\net6.0\hata-yonetimi.exe
+D:\Desktop\CSharp\Pratikler\hata-yonetimi\bin\Debug\net6.0\hata-yonetimi.deps.json
+D:\Desktop\CSharp\Pratikler\hata-yonetimi\bin\Debug\net6.0\hata-yonetimi.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\hata-yonetimi\bin\Debug\net6.0\hata-yonetimi.dll
+D:\Desktop\CSharp\Pratikler\hata-yonetimi\bin\Debug\net6.0\hata-yonetimi.pdb
+D:\Desktop\CSharp\Pratikler\hata-yonetimi\obj\Debug\net6.0\hata-yonetimi.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\hata-yonetimi\obj\Debug\net6.0\hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\hata-yonetimi\obj\Debug\net6.0\hata-yonetimi.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\hata-yonetimi\obj\Debug\net6.0\hata-yonetimi.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\hata-yonetimi\obj\Debug\net6.0\hata-yonetimi.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\hata-yonetimi\obj\Debug\net6.0\hata-yonetimi.dll
+D:\Desktop\CSharp\Pratikler\hata-yonetimi\obj\Debug\net6.0\refint\hata-yonetimi.dll
+D:\Desktop\CSharp\Pratikler\hata-yonetimi\obj\Debug\net6.0\hata-yonetimi.pdb
+D:\Desktop\CSharp\Pratikler\hata-yonetimi\obj\Debug\net6.0\hata-yonetimi.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\hata-yonetimi\obj\Debug\net6.0\ref\hata-yonetimi.dll

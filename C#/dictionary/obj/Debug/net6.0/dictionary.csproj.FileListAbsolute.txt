@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\dictionary\bin\Debug\net6.0\dictionary.exe
+D:\Desktop\CSharp\Pratikler\dictionary\bin\Debug\net6.0\dictionary.deps.json
+D:\Desktop\CSharp\Pratikler\dictionary\bin\Debug\net6.0\dictionary.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\dictionary\bin\Debug\net6.0\dictionary.dll
+D:\Desktop\CSharp\Pratikler\dictionary\bin\Debug\net6.0\dictionary.pdb
+D:\Desktop\CSharp\Pratikler\dictionary\obj\Debug\net6.0\dictionary.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\dictionary\obj\Debug\net6.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\dictionary\obj\Debug\net6.0\dictionary.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\dictionary\obj\Debug\net6.0\dictionary.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\dictionary\obj\Debug\net6.0\dictionary.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\dictionary\obj\Debug\net6.0\dictionary.dll
+D:\Desktop\CSharp\Pratikler\dictionary\obj\Debug\net6.0\refint\dictionary.dll
+D:\Desktop\CSharp\Pratikler\dictionary\obj\Debug\net6.0\dictionary.pdb
+D:\Desktop\CSharp\Pratikler\dictionary\obj\Debug\net6.0\dictionary.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\dictionary\obj\Debug\net6.0\ref\dictionary.dll

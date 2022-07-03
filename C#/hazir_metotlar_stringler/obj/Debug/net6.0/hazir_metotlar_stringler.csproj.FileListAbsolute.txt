@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\hazir_metotlar_stringler\bin\Debug\net6.0\hazir_metotlar_stringler.exe
+D:\Desktop\CSharp\Pratikler\hazir_metotlar_stringler\bin\Debug\net6.0\hazir_metotlar_stringler.deps.json
+D:\Desktop\CSharp\Pratikler\hazir_metotlar_stringler\bin\Debug\net6.0\hazir_metotlar_stringler.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\hazir_metotlar_stringler\bin\Debug\net6.0\hazir_metotlar_stringler.dll
+D:\Desktop\CSharp\Pratikler\hazir_metotlar_stringler\bin\Debug\net6.0\hazir_metotlar_stringler.pdb
+D:\Desktop\CSharp\Pratikler\hazir_metotlar_stringler\obj\Debug\net6.0\hazir_metotlar_stringler.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\hazir_metotlar_stringler\obj\Debug\net6.0\hazir_metotlar_stringler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\hazir_metotlar_stringler\obj\Debug\net6.0\hazir_metotlar_stringler.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\hazir_metotlar_stringler\obj\Debug\net6.0\hazir_metotlar_stringler.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\hazir_metotlar_stringler\obj\Debug\net6.0\hazir_metotlar_stringler.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\hazir_metotlar_stringler\obj\Debug\net6.0\hazir_metotlar_stringler.dll
+D:\Desktop\CSharp\Pratikler\hazir_metotlar_stringler\obj\Debug\net6.0\refint\hazir_metotlar_stringler.dll
+D:\Desktop\CSharp\Pratikler\hazir_metotlar_stringler\obj\Debug\net6.0\hazir_metotlar_stringler.pdb
+D:\Desktop\CSharp\Pratikler\hazir_metotlar_stringler\obj\Debug\net6.0\hazir_metotlar_stringler.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\hazir_metotlar_stringler\obj\Debug\net6.0\ref\hazir_metotlar_stringler.dll

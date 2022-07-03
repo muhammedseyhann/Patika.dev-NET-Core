@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\arayuzler\bin\Debug\net6.0\arayuzler.exe
+D:\Desktop\CSharp\Pratikler\arayuzler\bin\Debug\net6.0\arayuzler.deps.json
+D:\Desktop\CSharp\Pratikler\arayuzler\bin\Debug\net6.0\arayuzler.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\arayuzler\bin\Debug\net6.0\arayuzler.dll
+D:\Desktop\CSharp\Pratikler\arayuzler\bin\Debug\net6.0\arayuzler.pdb
+D:\Desktop\CSharp\Pratikler\arayuzler\obj\Debug\net6.0\arayuzler.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\arayuzler\obj\Debug\net6.0\arayuzler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\arayuzler\obj\Debug\net6.0\arayuzler.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\arayuzler\obj\Debug\net6.0\arayuzler.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\arayuzler\obj\Debug\net6.0\arayuzler.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\arayuzler\obj\Debug\net6.0\arayuzler.dll
+D:\Desktop\CSharp\Pratikler\arayuzler\obj\Debug\net6.0\refint\arayuzler.dll
+D:\Desktop\CSharp\Pratikler\arayuzler\obj\Debug\net6.0\arayuzler.pdb
+D:\Desktop\CSharp\Pratikler\arayuzler\obj\Debug\net6.0\arayuzler.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\arayuzler\obj\Debug\net6.0\ref\arayuzler.dll

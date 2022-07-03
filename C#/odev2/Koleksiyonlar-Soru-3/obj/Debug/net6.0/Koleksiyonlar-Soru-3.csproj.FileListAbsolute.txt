@@ -1,0 +1,15 @@
+D:\Desktop\CSharp\Pratikler\odev2\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.exe
+D:\Desktop\CSharp\Pratikler\odev2\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.deps.json
+D:\Desktop\CSharp\Pratikler\odev2\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.runtimeconfig.json
+D:\Desktop\CSharp\Pratikler\odev2\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.dll
+D:\Desktop\CSharp\Pratikler\odev2\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.pdb
+D:\Desktop\CSharp\Pratikler\odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.csproj.AssemblyReference.cache
+D:\Desktop\CSharp\Pratikler\odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CSharp\Pratikler\odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.AssemblyInfoInputs.cache
+D:\Desktop\CSharp\Pratikler\odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.AssemblyInfo.cs
+D:\Desktop\CSharp\Pratikler\odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.csproj.CoreCompileInputs.cache
+D:\Desktop\CSharp\Pratikler\odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.dll
+D:\Desktop\CSharp\Pratikler\odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\refint\Koleksiyonlar-Soru-3.dll
+D:\Desktop\CSharp\Pratikler\odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.pdb
+D:\Desktop\CSharp\Pratikler\odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.genruntimeconfig.cache
+D:\Desktop\CSharp\Pratikler\odev2\Koleksiyonlar-Soru-3\obj\Debug\net6.0\ref\Koleksiyonlar-Soru-3.dll
